@@ -134,15 +134,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "สุภาพร",          imageSrc: "http://img.b2bpic.net/free-photo/group-middle-age-friends-having-fun-night_23-2149237486.jpg",          imageAlt: "Customer review by Supaporn",          quote: "ก๋วยเตี๋ยวไก่ร้านนี้อร่อยมาก น้ำซุปเข้มข้น ไก่นุ่มละลายในปาก กินกี่ครั้งก็ไม่เคยเบื่อเลยค่ะ!"},
+          id: "1",          name: "สุภาพร",          imageSrc: "http://img.b2bpic.net/free-photo/group-middle-age-friends-having-fun-night_23-2149237486.jpg",          imageAlt: "Customer review by Supaporn"},
         {
-          id: "2",          name: "ธนากร",          imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-1905.jpg",          imageAlt: "Customer review by Tanakorn",          quote: "เป็นร้านที่ต้องแวะทุกครั้งที่ผ่านมาดำเนินสะดวก รสชาติแบบต้นตำรับ หาที่ไหนไม่ได้อีกแล้วครับ"},
+          id: "2",          name: "ธนากร",          imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-1905.jpg",          imageAlt: "Customer review by Tanakorn"},
         {
-          id: "3",          name: "อารยา",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-old-man-portrait_23-2151056562.jpg",          imageAlt: "Customer review by Araya",          quote: "ประทับใจตั้งแต่ครั้งแรกที่ได้ลอง วัตถุดิบคุณภาพดีมากค่ะ คุ้มค่าเกินราคาจริงๆ"},
+          id: "3",          name: "อารยา",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-old-man-portrait_23-2151056562.jpg",          imageAlt: "Customer review by Araya"},
         {
-          id: "4",          name: "วิโรจน์",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-cafe-dines-traditional-shakshuka-ayran_169016-16512.jpg",          imageAlt: "Customer review by Viroj",          quote: "น้ำซุปหอมเครื่องเทศมากครับ ไก่ตุ๋นจนเปื่อยนุ่ม กำลังดีเลยครับ อยากให้มาลองกันเยอะๆ"},
+          id: "4",          name: "วิโรจน์",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-cafe-dines-traditional-shakshuka-ayran_169016-16512.jpg",          imageAlt: "Customer review by Viroj"},
         {
-          id: "5",          name: "ปรีชา",          imageSrc: "http://img.b2bpic.net/free-photo/two-women-eating-pasta-italian-restaurant_1303-24377.jpg",          imageAlt: "Customer review by Preecha",          quote: "สุดยอดก๋วยเตี๋ยวไก่ตุ๋นเลยครับ! รสชาติกลมกล่อม ไม่ต้องปรุงเพิ่มก็อร่อยแล้ว"},
+          id: "5",          name: "ปรีชา",          imageSrc: "http://img.b2bpic.net/free-photo/two-women-eating-pasta-italian-restaurant_1303-24377.jpg",          imageAlt: "Customer review by Preecha"},
       ]}
       cardTitle="เสียงจากลูกค้าของเรา"
       cardTag="ความประทับใจ"
